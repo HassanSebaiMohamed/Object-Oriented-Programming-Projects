@@ -1,21 +1,21 @@
-# 💰 Personal Banking System
+#  Personal Banking System
 
 A simple Personal Banking System built with **Python** using **Object-Oriented Programming (OOP)** concepts.
 
-## 📌 Features
+##  Features
 
-- ➕ Add a transaction
-- ❌ Remove a transaction
-- 📋 Display all transactions
-- 🔍 Search for a transaction
-- 🚪 Exit the application
+-  Add a transaction
+-  Remove a transaction
+-  Display all transactions
+-  Search for a transaction
+-  Exit the application
 
-## 🛠️ Technologies
+##  Technologies
 
 - Python 3
 - Object-Oriented Programming (OOP)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Personal-Banking-System/
@@ -24,7 +24,7 @@ Personal-Banking-System/
 └── README.md
 ```
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -44,7 +44,7 @@ cd Personal-Banking-System
 python main.py
 ```
 
-## 📚 OOP Concepts Used
+##  OOP Concepts Used
 
 - Classes
 - Objects
@@ -54,12 +54,12 @@ python main.py
 - Composition
 - Lists of Objects
 
-## 📖 Description
+##  Description
 
 This project simulates a simple personal banking system where users can manage their income and expense transactions through a console-based interface.
 
 Each transaction is represented as an object, while the `Bank` class manages all transactions by allowing users to add, remove, display, and search transactions.
 
-## 👨‍💻 Author
+##  Author
 
 Hassan Sebai
